@@ -1,10 +1,10 @@
-# Fancy Boilerplate
+# Fancy CLI
 
-[![Build Status](https://travis-ci.org/dayanyrec/fancy-boilerplate.svg?branch=master)](https://travis-ci.org/dayanyrec/fancy-boilerplate)
+[![Build Status](https://travis-ci.org/dayanyrec/fancy-cli.svg?branch=master)](https://travis-ci.org/dayanyrec/fancy-cli)
 
-[![Coverage Status](https://coveralls.io/repos/github/dayanyrec/fancy-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dayanyrec/fancy-boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/dayanyrec/fancy-cli/badge.svg?branch=master)](https://coveralls.io/github/dayanyrec/fancy-cli?branch=master)
 
-A fancy boilerplate to start a JS project using fancy tools
+A fancy CLI to start a JS project using fancy tools
 
 ## Getting Started
 
